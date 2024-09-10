@@ -40,4 +40,4 @@
 ![Repl.it](https://img.shields.io/badge/-Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmohman&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmohman&layout=compact&theme=dark&langs_count=8&card_width=500)
