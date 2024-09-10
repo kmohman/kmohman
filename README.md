@@ -29,9 +29,12 @@
 
 ## IDEs/Editors I use most often
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-00599C?style=flat&logo=cursor&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white)
 ![Repl.it](https://img.shields.io/badge/-Replit-667881?style=flat&logo=replit&logoColor=white)
+
 
 
 ## Most Used Languages
